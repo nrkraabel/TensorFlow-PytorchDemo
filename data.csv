@@ -1,0 +1,483 @@
+Industry Code,Industry Description,Size of Industry,Sale Losses,Percentage Loss,Sector
+1,Oilseed farming,42.17689192,-1.384488306,-3%,"Agriculture, Forestry, Fishing and Hunting "
+2,Grain farming,1143.775751,-210.5136746,-18%,"Agriculture, Forestry, Fishing and Hunting "
+3,Vegetable and melon farming,1449.091187,-401.7140957,-28%,"Agriculture, Forestry, Fishing and Hunting "
+4,Fruit farming,3377.291991,-244.1654053,-7%,"Agriculture, Forestry, Fishing and Hunting "
+5,Tree nut farming,3.008410673,-1.537687822,-51%,"Agriculture, Forestry, Fishing and Hunting "
+6,"Greenhouse, nursery, and floriculture production",442.1270754,-123.9673455,-28%,"Agriculture, Forestry, Fishing and Hunting "
+9,Sugarcane and sugar beet farming,4.535999788,-0.035562674,-1%,"Agriculture, Forestry, Fishing and Hunting "
+10,All other crop farming,1084.425527,-110.6787955,-10%,"Agriculture, Forestry, Fishing and Hunting "
+11,"Beef cattle ranching and farming, including feedlots and dual-purpose ranching and farming",971.9210565,-244.1696871,-25%,"Agriculture, Forestry, Fishing and Hunting "
+12,Dairy cattle and milk production,1192.974982,-159.6030558,-13%,"Agriculture, Forestry, Fishing and Hunting "
+13,Poultry and egg production,327.5293849,-134.8316878,-41%,"Agriculture, Forestry, Fishing and Hunting "
+14,"Animal production, except cattle and poultry and eggs",264.4972288,-81.37809581,-31%,"Agriculture, Forestry, Fishing and Hunting "
+15,"Forestry, forest products, and timber tract production",88.50572137,-1.751352061,-2%,"Agriculture, Forestry, Fishing and Hunting "
+16,Commercial logging,625.7608671,-19.32515782,-3%,"Agriculture, Forestry, Fishing and Hunting "
+17,Commercial fishing,660.6476409,-58.53842967,-9%,"Agriculture, Forestry, Fishing and Hunting "
+18,Commercial hunting and trapping,3.020965098,-2.327979829,-77%,"Agriculture, Forestry, Fishing and Hunting "
+19,Support activities for agriculture and forestry,1370.108243,-109.3936647,-8%,"Agriculture, Forestry, Fishing and Hunting "
+20,Oil and gas extraction,569.5094716,-99.51648666,-17%,"Mining, Quarrying, and Oil and Gas Extraction "
+21,Coal mining,21.72211647,-1.646644971,-8%,"Mining, Quarrying, and Oil and Gas Extraction "
+22,"Copper, nickel, lead, and zinc mining",51.18704368,-5.84610634,-11%,"Mining, Quarrying, and Oil and Gas Extraction "
+24,Gold ore mining,134.6782539,-3.327985407,-2%,"Mining, Quarrying, and Oil and Gas Extraction "
+28,Stone mining and quarrying,196.7966311,-21.90592446,-11%,"Mining, Quarrying, and Oil and Gas Extraction "
+29,Sand and gravel mining,375.6985562,-21.23605193,-6%,"Mining, Quarrying, and Oil and Gas Extraction "
+34,Other nonmetallic minerals,19.02636132,2.34275958,12%,"Mining, Quarrying, and Oil and Gas Extraction "
+35,Drilling oil and gas wells,64.75002289,-0.001157143,0%,"Mining, Quarrying, and Oil and Gas Extraction "
+36,Support activities for oil and gas operations,32.65058136,-0.008739026,0%,"Mining, Quarrying, and Oil and Gas Extraction "
+37,Metal mining services,124.9108279,-0.398713137,0%,"Mining, Quarrying, and Oil and Gas Extraction "
+38,Other nonmetallic minerals services,68.67508696,-0.058803114,0%,"Mining, Quarrying, and Oil and Gas Extraction "
+39,Electric power generation - Hydroelectric,301.3211405,-124.8995706,-41%,Utilities
+40,Electric power generation - Fossil fuel,486.2529081,-201.55499,-41%,Utilities
+42,Electric power generation - Solar,6.136217804,-2.543502138,-41%,Utilities
+43,Electric power generation - Wind,265.9842798,-110.252212,-41%,Utilities
+45,Electric power generation - Biomass,23.51752363,-9.748166368,-41%,Utilities
+46,Electric power generation - All other,2.063886875,-0.855494519,-41%,Utilities
+47,Electric power transmission and distribution,5733.400225,-2615.700382,-46%,Utilities
+48,Natural gas distribution,801.8311321,-433.5202042,-54%,Utilities
+49,"Water, sewage and other systems",299.2951969,-106.3200054,-36%,Utilities
+50,Construction of new health care structures,1345.536011,0,0%,Construction
+51,Construction of new manufacturing structures,2286.282959,0,0%,Construction
+52,Construction of new power and communication structures,3423.337158,0,0%,Construction
+53,Construction of new educational and vocational structures,3188.605225,0,0%,Construction
+54,Construction of new highways and streets,4262.167969,0,0%,Construction
+55,"Construction of new commercial structures, including farm structures",5036.296387,0,0%,Construction
+56,Construction of other new nonresidential structures,3492.222656,0,0%,Construction
+57,Construction of new single-family residential structures,7772.269531,0,0%,Construction
+58,Construction of new multifamily residential structures,2038.131226,0,0%,Construction
+59,Construction of other new residential structures,7485.475586,0,0%,Construction
+60,Maintenance and repair construction of nonresidential structures,4883.994105,-1641.673579,-34%,Construction
+61,Maintenance and repair construction of residential structures,2567.923146,-2340.322886,-91%,Construction
+62,"Maintenance and repair construction of highways, streets, bridges, and tunnels",861.8892212,-1.138528571,0%,Construction
+63,Dog and cat food manufacturing,298.4118953,-64.77058943,-22%,"Agriculture, Forestry, Fishing and Hunting "
+64,Other animal food manufacturing,794.3866432,-169.3120596,-21%,"Agriculture, Forestry, Fishing and Hunting "
+65,Flour milling,201.6621736,-80.87572709,-40%,"Agriculture, Forestry, Fishing and Hunting "
+67,Malt manufacturing,158.3193817,-2.137233317,-1%,"Agriculture, Forestry, Fishing and Hunting "
+68,Wet corn milling,217.0513047,-44.16600631,-20%,"Agriculture, Forestry, Fishing and Hunting "
+69,Soybean and other oilseed processing,974.5705538,-42.12468801,-4%,"Agriculture, Forestry, Fishing and Hunting "
+70,Fats and oils refining and blending,43.77061822,-3.769219915,-9%,"Agriculture, Forestry, Fishing and Hunting "
+71,Breakfast cereal manufacturing,131.3205108,-37.76202129,-29%,"Agriculture, Forestry, Fishing and Hunting "
+74,Nonchocolate confectionery manufacturing,97.99794766,-18.10210952,-18%,"Agriculture, Forestry, Fishing and Hunting "
+75,Chocolate and confectionery manufacturing from cacao beans,59.82984162,-8.796874574,-15%,"Agriculture, Forestry, Fishing and Hunting "
+76,Confectionery manufacturing from purchased chocolate,278.4079591,-51.8147062,-19%,"Agriculture, Forestry, Fishing and Hunting "
+77,"Frozen fruits, juices and vegetables manufacturing",3367.718036,-301.3719252,-9%,"Agriculture, Forestry, Fishing and Hunting "
+78,Frozen specialties manufacturing,556.7678833,-190.484653,-34%,"Agriculture, Forestry, Fishing and Hunting "
+79,Canned fruits and vegetables manufacturing,1108.121948,-93.49733565,-8%,"Agriculture, Forestry, Fishing and Hunting "
+80,Canned specialties,22.09073256,-3.200109098,-14%,"Agriculture, Forestry, Fishing and Hunting "
+81,Dehydrated food products manufacturing,658.3550381,-42.14954299,-6%,"Agriculture, Forestry, Fishing and Hunting "
+82,Cheese manufacturing,214.7044678,-24.37083071,-11%,"Agriculture, Forestry, Fishing and Hunting "
+83,"Dry, condensed, and evaporated dairy product manufacturing",259.2640689,-56.02880819,-22%,"Agriculture, Forestry, Fishing and Hunting "
+84,Fluid milk manufacturing,611.4743045,-315.0956861,-52%,"Agriculture, Forestry, Fishing and Hunting "
+85,Creamery butter manufacturing,397.0083622,-107.8448717,-27%,"Agriculture, Forestry, Fishing and Hunting "
+86,Ice cream and frozen dessert manufacturing,76.89735347,-28.02172918,-36%,"Agriculture, Forestry, Fishing and Hunting "
+87,Frozen cakes and other pastries manufacturing,415.4260563,-123.2696249,-30%,"Agriculture, Forestry, Fishing and Hunting "
+88,Poultry processing,364.407471,-191.2375653,-52%,"Agriculture, Forestry, Fishing and Hunting "
+89,"Animal, except poultry, slaughtering",2196.906004,-548.5696907,-25%,"Agriculture, Forestry, Fishing and Hunting "
+90,Meat processed from carcasses,885.1045535,-351.7542441,-40%,"Agriculture, Forestry, Fishing and Hunting "
+91,Rendering and meat byproduct processing,79.87435148,-8.795312057,-11%,"Agriculture, Forestry, Fishing and Hunting "
+92,Seafood product preparation and packaging,2515.32739,-188.3461321,-7%,"Agriculture, Forestry, Fishing and Hunting "
+93,"Bread and bakery product, except frozen, manufacturing",1221.805054,-566.342238,-46%,"Agriculture, Forestry, Fishing and Hunting "
+94,Cookie and cracker manufacturing,143.7822724,-84.36231804,-59%,"Agriculture, Forestry, Fishing and Hunting "
+95,"Dry pasta, mixes, and dough manufacturing",261.8908081,-115.1006333,-44%,"Agriculture, Forestry, Fishing and Hunting "
+96,Tortilla manufacturing,22.92541499,-18.40668512,-80%,"Agriculture, Forestry, Fishing and Hunting "
+97,Roasted nuts and peanut butter manufacturing,352.9548338,-128.6640709,-36%,"Agriculture, Forestry, Fishing and Hunting "
+98,Other snack food manufacturing,613.0576179,-202.6950983,-33%,"Agriculture, Forestry, Fishing and Hunting "
+99,Coffee and tea manufacturing,1230.22034,-130.8844971,-11%,"Agriculture, Forestry, Fishing and Hunting "
+100,Flavoring syrup and concentrate manufacturing,168.9030762,-14.52332163,-9%,"Agriculture, Forestry, Fishing and Hunting "
+101,"Mayonnaise, dressing, and sauce manufacturing",62.08096701,-4.385528222,-7%,"Agriculture, Forestry, Fishing and Hunting "
+102,Spice and extract manufacturing,251.9376511,-40.25243771,-16%,"Agriculture, Forestry, Fishing and Hunting "
+103,All other food manufacturing,636.3579099,-131.8540198,-21%,"Agriculture, Forestry, Fishing and Hunting "
+104,Bottled and canned soft drinks & water,1834.310549,-1113.044337,-61%,"Agriculture, Forestry, Fishing and Hunting "
+105,Manufactured ice,5.957100873,-4.544666386,-76%,"Agriculture, Forestry, Fishing and Hunting "
+106,Breweries,847.5830716,-420.8882662,-50%,"Agriculture, Forestry, Fishing and Hunting "
+107,Wineries,1400.823362,-272.0510806,-19%,"Agriculture, Forestry, Fishing and Hunting "
+108,Distilleries,308.775818,-9.322540057,-3%,"Agriculture, Forestry, Fishing and Hunting "
+109,Tobacco product manufacturing,6.177880287,-4.551734453,-74%,"Agriculture, Forestry, Fishing and Hunting "
+110,"Fiber, yarn, and thread mills",7.162858007,-0.161795932,-2%,"Agriculture, Forestry, Fishing and Hunting "
+111,Broadwoven fabric mills,80.28792573,-1.067285847,-1%,"Agriculture, Forestry, Fishing and Hunting "
+112,Narrow fabric mills and schiffli machine embroidery,4.256879806,-0.026051445,-1%,"Agriculture, Forestry, Fishing and Hunting "
+113,Nonwoven fabric mills,47.51792527,-0.430942411,-1%,"Agriculture, Forestry, Fishing and Hunting "
+115,Textile and fabric finishing mills,1.181501513,-0.014577124,-1%,"Agriculture, Forestry, Fishing and Hunting "
+116,Fabric coating mills,16.57178692,0.018250093,0%,Manufacturing
+117,Carpet and rug mills,22.92967954,2.190237302,10%,Manufacturing
+118,Curtain and linen mills,14.6125307,-0.44461749,-3%,Manufacturing
+119,Textile bag and canvas mills,176.4944456,-12.58608224,-7%,Manufacturing
+120,"Rope, cordage, twine, tire cord and tire fabric mills",100.1082919,-6.553650586,-7%,Manufacturing
+121,Other textile product mills,64.41191106,-1.931160955,-3%,Manufacturing
+122,Hosiery and sock mills,7.517109393,-0.522162121,-7%,Manufacturing
+123,Other apparel knitting mills,7.701943876,-0.596954578,-8%,Manufacturing
+124,Cut and sew apparel contractors,44.31319419,-2.291533501,-5%,Manufacturing
+125,Mens and boys cut and sew apparel manufacturing,128.149765,-8.472935245,-7%,Manufacturing
+126,Womens and girls cut and sew apparel manufacturing,78.58241272,-7.613551444,-10%,Manufacturing
+127,Other cut and sew apparel manufacturing,16.31540489,-1.209285031,-7%,Manufacturing
+128,Apparel accessories and other apparel manufacturing,24.33296585,-1.792970632,-7%,Manufacturing
+129,Leather and hide tanning and finishing,0.25394237,-0.001198183,0%,Manufacturing
+130,Footwear manufacturing,40.70285416,-1.004096961,-2%,Manufacturing
+131,Other leather and allied product manufacturing,18.51680565,-0.300996674,-2%,Manufacturing
+132,Sawmills,1874.407698,-57.80432696,-3%,Manufacturing
+133,Wood preservation,412.2377036,-15.78072527,-4%,Manufacturing
+134,Veneer and plywood manufacturing,355.9627711,-12.57683234,-4%,Manufacturing
+135,Engineered wood member and truss manufacturing,311.6486218,-14.85952162,-5%,Manufacturing
+136,Reconstituted wood product manufacturing,40.19342056,-1.831670299,-5%,Manufacturing
+137,Wood windows and door manufacturing,417.5957384,-61.25914481,-15%,Manufacturing
+138,"Cut stock, resawing lumber, and planing",155.608153,-9.104816247,-6%,Manufacturing
+139,"Other millwork, including flooring",162.1821781,-27.43445903,-17%,Manufacturing
+140,Wood container and pallet manufacturing,206.4718193,-64.52981056,-31%,Manufacturing
+141,Manufactured home (mobile home) manufacturing,30.0141659,-0.02813234,0%,Manufacturing
+142,Prefabricated wood building manufacturing,46.63123963,-4.477073162,-10%,Manufacturing
+143,All other miscellaneous wood product manufacturing,91.63394083,-17.06988593,-19%,Manufacturing
+144,Pulp mills,27.6662735,-0.474428986,-2%,Manufacturing
+145,Paper mills,2558.954599,-281.1149983,-11%,Manufacturing
+146,Paperboard mills,870.9952402,-20.50981332,-2%,Manufacturing
+147,Paperboard container manufacturing,1284.065664,-137.0789976,-11%,Manufacturing
+148,Paper bag and coated and treated paper manufacturing,209.1354973,-8.641220269,-4%,Manufacturing
+149,Stationery product manufacturing,20.04671287,-2.520628791,-13%,Manufacturing
+150,Sanitary paper product manufacturing,45.89482521,-10.17471707,-22%,Manufacturing
+151,All other converted paper product manufacturing,135.8597263,-12.32236277,-9%,Manufacturing
+152,Printing,1063.194827,-211.215905,-20%,Manufacturing
+153,Support activities for printing,19.21119464,-2.544675869,-13%,Manufacturing
+154,Petroleum refineries,10008.17967,-2413.140802,-24%,Manufacturing
+155,Asphalt paving mixture and block manufacturing,280.9965217,-28.06790309,-10%,Manufacturing
+156,Asphalt shingle and coating materials manufacturing,334.0327659,-38.50856561,-12%,Manufacturing
+157,Petroleum lubricating oil and grease manufacturing,61.70598452,-14.15863568,-23%,Manufacturing
+159,Petrochemical manufacturing,861.7273142,-14.22913295,-2%,Manufacturing
+160,Industrial gas manufacturing,131.3693257,-19.41898406,-15%,Manufacturing
+161,Synthetic dye and pigment manufacturing,41.86091985,-0.728993295,-2%,Manufacturing
+162,Other basic inorganic chemical manufacturing,783.685848,-20.23051765,-3%,Manufacturing
+163,Other basic organic chemical manufacturing,729.3988635,-12.42792867,-2%,Manufacturing
+164,Plastics material and resin manufacturing,843.115479,-7.334445695,-1%,Manufacturing
+167,Nitrogenous fertilizer manufacturing,233.2603907,-19.12939579,-8%,Manufacturing
+169,Fertilizer mixing,128.3173676,-6.507023466,-5%,Manufacturing
+170,Pesticide and other agricultural chemical manufacturing,161.5045303,-34.56038549,-21%,Manufacturing
+171,Medicinal and botanical manufacturing,248.0075074,-1.827230612,-1%,Manufacturing
+172,Pharmaceutical preparation manufacturing,1303.189331,-38.8360671,-3%,Manufacturing
+173,In-vitro diagnostic substance manufacturing,193.8448793,-3.937043032,-2%,Manufacturing
+174,Biological product (except diagnostic) manufacturing,794.083618,-4.304216643,-1%,Manufacturing
+175,Paint and coating manufacturing,100.6745536,-5.396299193,-5%,Manufacturing
+176,Adhesive manufacturing,84.4190063,-1.92515168,-2%,Manufacturing
+177,Soap and other detergent manufacturing,199.5747202,-43.02105745,-22%,Manufacturing
+178,Polish and other sanitation good manufacturing,60.64575518,-11.5039441,-19%,Manufacturing
+180,Toilet preparation manufacturing,402.4864806,-49.73181982,-12%,Manufacturing
+181,Printing ink manufacturing,15.66854472,-0.575367624,-4%,Manufacturing
+184,Photographic film and chemical manufacturing,19.4597682,-2.713212993,-14%,Manufacturing
+185,Other miscellaneous chemical product manufacturing,179.7834772,-2.700292903,-2%,Manufacturing
+186,Plastics packaging materials and unlaminated film and sheet manufacturing,505.9613065,-23.60212761,-5%,Manufacturing
+187,Unlaminated plastics profile shape manufacturing,412.1875302,-13.96734842,-3%,Manufacturing
+188,Plastics pipe and pipe fitting manufacturing,229.1738591,-17.98610324,-8%,Manufacturing
+189,"Laminated plastics plate, sheet (except packaging), and shape manufacturing",43.85391187,-1.856604619,-4%,Manufacturing
+190,Polystyrene foam product manufacturing,107.6076591,-21.22104788,-20%,Manufacturing
+191,Urethane and other foam product (except polystyrene) manufacturing,248.0870796,-44.31507595,-18%,Manufacturing
+192,Plastics bottle manufacturing,176.5462342,-33.05860467,-19%,Manufacturing
+193,Other plastics product manufacturing,1048.767825,-84.68667991,-8%,Manufacturing
+194,Tire manufacturing,13.77632911,-5.45207563,-40%,Manufacturing
+195,Rubber and plastics hoses and belting manufacturing,24.31160735,-0.85680611,-4%,Manufacturing
+196,Other rubber product manufacturing,41.09389481,-2.507792238,-6%,Manufacturing
+197,"Pottery, ceramics, and plumbing fixture manufacturing",28.31641578,-3.602669214,-13%,Manufacturing
+198,"Brick, tile, and other structural clay product manufacturing",73.76025383,-6.785340612,-9%,Manufacturing
+199,Flat glass manufacturing,130.9535537,-6.225646891,-5%,Manufacturing
+200,Other pressed and blown glass and glassware manufacturing,61.34539137,-8.969722936,-15%,Manufacturing
+201,Glass container manufacturing,105.7089002,-19.71513523,-19%,Manufacturing
+202,Glass product manufacturing made of purchased glass,499.3137483,-53.85765741,-11%,Manufacturing
+203,Cement manufacturing,144.7113146,-14.8701882,-10%,Manufacturing
+204,Ready-mix concrete manufacturing,1202.434671,-126.6115922,-11%,Manufacturing
+205,Concrete block and brick manufacturing,49.28759011,-5.867128924,-12%,Manufacturing
+206,Concrete pipe manufacturing,37.9678332,-3.594066547,-9%,Manufacturing
+207,Other concrete product manufacturing,337.0833307,-37.98204752,-11%,Manufacturing
+208,Lime manufacturing,20.66595059,-4.761534111,-23%,Manufacturing
+209,Gypsum product manufacturing,241.7566671,-31.15298078,-13%,Manufacturing
+210,Abrasive product manufacturing,12.08375377,1.13433478,9%,Manufacturing
+211,Cut stone and stone product manufacturing,101.7139403,-28.97804183,-28%,Manufacturing
+212,Ground or treated mineral and earth manufacturing,157.5630038,-9.769179894,-6%,Manufacturing
+213,Mineral wool manufacturing,21.27662492,-1.629732073,-8%,Manufacturing
+214,Miscellaneous nonmetallic mineral products manufacturing,10.44927487,-0.388050135,-4%,Manufacturing
+215,Iron and steel mills and ferroalloy manufacturing,147.3856033,23.34358782,16%,Manufacturing
+216,"Iron, steel pipe and tube manufacturing from purchased steel",12.10900317,1.905726397,16%,Manufacturing
+217,Rolled steel shape manufacturing,552.6270185,87.6549188,16%,Manufacturing
+218,Steel wire drawing,59.147476,-1.209402892,-2%,Manufacturing
+219,Alumina refining and primary aluminum production,718.9251707,-2.295281652,0%,Manufacturing
+221,"Aluminum sheet, plate, and foil manufacturing",541.2667234,2.588038836,0%,Manufacturing
+222,"Other aluminum rolling, drawing and extruding",56.60426307,-0.914949696,-2%,Manufacturing
+223,Nonferrous metal (exc aluminum) smelting and refining,356.1447137,-0.200700818,0%,Manufacturing
+225,"Nonferrous metal, except copper and aluminum, shaping",130.4272759,1.041646817,1%,Manufacturing
+226,Secondary processing of other nonferrous metals,13.33522608,0.016526743,0%,Manufacturing
+227,Ferrous metal foundries,291.8411863,-0.375071415,0%,Manufacturing
+228,Nonferrous metal foundries,159.1443641,0.242127154,0%,Manufacturing
+229,Custom roll forming,79.91526905,8.214990279,10%,Manufacturing
+230,Crown and closure manufacturing and metal stamping,41.95744817,-1.477784086,-4%,Manufacturing
+231,Iron and steel forging,1.737239218,0.212422005,12%,Manufacturing
+232,Nonferrous forging,22.11841546,2.791306125,13%,Manufacturing
+233,"Cutlery, utensil, pot, and pan manufacturing",50.08557128,-2.688454667,-5%,Manufacturing
+234,Handtool manufacturing,26.18753625,-1.254540241,-5%,Manufacturing
+235,Prefabricated metal buildings and components manufacturing,97.34828771,-2.896037763,-3%,Manufacturing
+236,Fabricated structural metal manufacturing,639.2149824,108.0636963,17%,Manufacturing
+237,Plate work manufacturing,119.7588745,-4.875490044,-4%,Manufacturing
+238,Metal window and door manufacturing,164.8229825,-13.53167467,-8%,Manufacturing
+239,Sheet metal work manufacturing,1069.85876,-20.43080288,-2%,Manufacturing
+240,Ornamental and architectural metal work manufacturing,236.2444644,-16.75605232,-7%,Manufacturing
+241,Power boiler and heat exchanger manufacturing,52.90169907,-0.044189842,0%,Manufacturing
+242,Metal tank (heavy gauge) manufacturing,220.6602936,-0.213333648,0%,Manufacturing
+243,Metal cans manufacturing,286.595033,-25.11051255,-9%,Manufacturing
+244,"Metal barrels, drums and pails manufacturing",69.66915901,-0.751336859,-1%,Manufacturing
+245,Hardware manufacturing,81.16234534,-0.668986526,-1%,Manufacturing
+246,Spring and wire product manufacturing,72.17898018,25.40967737,35%,Manufacturing
+247,Machine shops,802.1860366,-7.624388152,-1%,Manufacturing
+248,"Turned product and screw, nut, and bolt manufacturing",63.61424808,5.593608199,9%,Manufacturing
+249,Metal heat treating,48.06707782,-1.943323567,-4%,Manufacturing
+250,Metal coating and nonprecious engraving,316.2171916,-11.16058811,-4%,Manufacturing
+251,"Electroplating, anodizing, and coloring metal",141.4615328,-4.379868292,-3%,Manufacturing
+252,"Valve and fittings, other than plumbing, manufacturing",166.8316001,25.60178051,15%,Manufacturing
+253,Plumbing fixture fitting and trim manufacturing,151.3045802,-16.55036699,-11%,Manufacturing
+255,Small arms ammunition manufacturing,6.851436143,-0.582320448,-8%,Manufacturing
+257,"Small arms, ordnance, and accessories manufacturing",43.9051819,-1.652363118,-4%,Manufacturing
+258,Fabricated pipe and pipe fitting manufacturing,56.13226727,-1.378846225,-2%,Manufacturing
+259,Other fabricated metal manufacturing,196.8708927,-17.29703178,-9%,Manufacturing
+260,Farm machinery and equipment manufacturing,396.7649227,-1.59078052,0%,Manufacturing
+261,Lawn and garden equipment manufacturing,11.89257242,-0.578504956,-5%,Manufacturing
+262,Construction machinery manufacturing,264.2686159,-0.555198583,0%,Manufacturing
+263,Mining machinery and equipment manufacturing,20.15810013,-0.031638603,0%,Manufacturing
+266,Food product machinery manufacturing,280.4330749,-0.512149913,0%,Manufacturing
+267,"Sawmill, woodworking, and paper machinery",158.4563751,-0.269380324,0%,Manufacturing
+268,Printing machinery and equipment manufacturing,7.094234467,-0.008786721,0%,Manufacturing
+269,All other industrial machinery manufacturing,330.4642334,-0.164828954,0%,Manufacturing
+270,Optical instrument and lens manufacturing,64.09260559,0.013626551,0%,Manufacturing
+272,Other commercial service industry machinery manufacturing,200.973038,-1.924560894,-1%,Manufacturing
+273,Air purification and ventilation equipment manufacturing,11.23408987,-0.059726036,-1%,Manufacturing
+274,Heating equipment (except warm air furnaces) manufacturing,249.8847806,-13.20582902,-5%,Manufacturing
+275,"Air conditioning, refrigeration, and warm air heating equipment manufacturing",237.6431426,-6.023794409,-3%,Manufacturing
+276,Industrial mold manufacturing,117.0397034,-0.12814061,0%,Manufacturing
+277,"Special tool, die, jig, and fixture manufacturing",186.8296356,0.155717794,0%,Manufacturing
+278,Cutting tool and machine tool accessory manufacturing,55.87258502,0.813115431,1%,Manufacturing
+279,Machine tool manufacturing,347.8675538,-0.075488383,0%,Manufacturing
+280,Rolling mill and other metalworking machinery manufacturing,36.84421151,-0.143595073,0%,Manufacturing
+281,Turbine and turbine generator set units manufacturing,39.16582108,0.065395818,0%,Manufacturing
+282,"Speed changer, industrial high-speed drive, and gear manufacturing",29.8673954,-0.004049005,0%,Manufacturing
+283,Mechanical power transmission equipment manufacturing,12.59434795,-0.030775058,0%,Manufacturing
+284,Other engine equipment manufacturing,16.96755791,-0.027051343,0%,Manufacturing
+285,Pump and pumping equipment manufacturing,138.7152557,-0.142040682,0%,Manufacturing
+286,Air and gas compressor manufacturing,21.98458291,-0.016186825,0%,Manufacturing
+287,Elevator and moving stairway manufacturing,5.973720072,-0.004965541,0%,Manufacturing
+288,Conveyor and conveying equipment manufacturing,49.25940704,-0.006386549,0%,Manufacturing
+289,"Overhead cranes, hoists, and monorail systems manufacturing",854.7079467,-0.106074871,0%,Manufacturing
+290,"Industrial truck, trailer, and stacker manufacturing",45.62171175,-0.03664371,0%,Manufacturing
+291,Power-driven handtool manufacturing,0.323132753,-0.003338787,-1%,Manufacturing
+292,Welding and soldering equipment manufacturing,49.57998657,-0.051621419,0%,Manufacturing
+293,Packaging machinery manufacturing,208.3445739,-0.78738377,0%,Manufacturing
+294,Industrial process furnace and oven manufacturing,1.11039865,-0.000683611,0%,Manufacturing
+295,Fluid power cylinder and actuator manufacturing,103.3673093,3.349990926,3%,Manufacturing
+296,Fluid power pump and motor manufacturing,7.662910951,0.201060684,3%,Manufacturing
+297,"Scales, balances, and miscellaneous general purpose machinery manufacturing",186.3246459,0.421073471,0%,Manufacturing
+300,Computer terminals and other computer peripheral equipment manufacturing,187.6894532,-1.207470159,-1%,Manufacturing
+301,Telephone apparatus manufacturing,156.7741548,-0.523363615,0%,Manufacturing
+307,Semiconductor and related device manufacturing,1693.53882,38.81206398,2%,Manufacturing
+308,"Capacitor, resistor, coil, transformer, and other inductor manufacturing",7.841126431,-0.004361296,0%,Manufacturing
+309,Electronic connector manufacturing,89.6813203,0.536467796,1%,Manufacturing
+310,Other electronic component manufacturing,452.4844664,2.354841146,1%,Manufacturing
+312,"Search, detection, and navigation instruments manufacturing",715.8806763,5.220549015,1%,Manufacturing
+313,Automatic environmental control manufacturing,20.68608092,-0.021979395,0%,Manufacturing
+314,Industrial process variable instruments manufacturing,254.9756163,0.527789555,0%,Manufacturing
+318,Irradiation apparatus manufacturing,63.26544189,-0.013586194,0%,Manufacturing
+319,"Watch, clock, and other measuring and controlling device manufacturing",272.8583071,2.348942356,1%,Manufacturing
+320,Blank magnetic and optical recording media manufacturing,12.88760779,-1.515027223,-12%,Manufacturing
+321,Software and other prerecorded and record reproducing,3.179603564,-0.203082981,-6%,Manufacturing
+322,Electric lamp bulb and part manufacturing,36.7528267,-0.891375853,-2%,Manufacturing
+323,Lighting fixture manufacturing,151.3861695,-0.968322353,-1%,Manufacturing
+324,Small electrical appliance manufacturing,198.8369751,-1.56889704,-1%,Manufacturing
+325,Household cooking appliance manufacturing,62.30138778,-0.492848073,-1%,Manufacturing
+326,Household refrigerator and home freezer manufacturing,81.82733154,-0.550482225,-1%,Manufacturing
+327,Household laundry equipment manufacturing,73.52903747,-1.358013373,-2%,Manufacturing
+328,Other major household appliance manufacturing,38.58433151,-0.212998944,-1%,Manufacturing
+329,"Power, distribution, and specialty transformer manufacturing",146.6878052,-0.023281017,0%,Manufacturing
+330,Motor and generator manufacturing,65.18198396,0.000761458,0%,Manufacturing
+332,Relay and industrial control manufacturing,973.8561399,1.788359904,0%,Manufacturing
+333,Storage battery manufacturing,11.65335942,-1.146040066,-10%,Manufacturing
+335,Fiber optic cable manufacturing,13.11271189,-0.142632635,-1%,Manufacturing
+336,Other communication and energy wire manufacturing,22.9778461,0.792992852,3%,Manufacturing
+337,Wiring device manufacturing,32.88257195,1.815930233,6%,Manufacturing
+338,Carbon and graphite product manufacturing,25.55486683,0.997572349,4%,Manufacturing
+339,All other miscellaneous electrical equipment and component manufacturing,215.501297,-0.042013506,0%,Manufacturing
+340,Automobile manufacturing,26.75320053,-3.131328162,-12%,Manufacturing
+341,Light truck and utility vehicle manufacturing,35.36719513,-3.290304896,-9%,Manufacturing
+342,Heavy duty truck manufacturing,1734.281372,-0.373228343,0%,Manufacturing
+343,Motor vehicle body manufacturing,179.9174041,-0.90688978,-1%,Manufacturing
+344,Truck trailer manufacturing,34.0969429,-0.024251363,0%,Manufacturing
+346,Travel trailer and camper manufacturing,90.21807099,-54.71004718,-61%,Manufacturing
+347,Motor vehicle gasoline engine and engine parts manufacturing,261.874573,-2.363675293,-1%,Manufacturing
+348,Motor vehicle electrical and electronic equipment manufacturing,136.9799339,-37.22581765,-27%,Manufacturing
+349,Motor vehicle transmission and power train parts manufacturing,2.170994998,-0.018705803,-1%,Manufacturing
+350,Motor vehicle seating and interior trim manufacturing,51.28229495,5.103096905,10%,Manufacturing
+352,Other motor vehicle parts manufacturing,468.4089942,17.25581814,4%,Manufacturing
+353,"Motor vehicle steering, suspension component (except spring), and brake systems manufacturing",88.68931777,-22.58279635,-25%,Manufacturing
+355,Aircraft engine and engine parts manufacturing,199.4552314,74.92930914,38%,Manufacturing
+356,Other aircraft parts and auxiliary equipment manufacturing,3632.554245,1414.679067,39%,Manufacturing
+358,Propulsion units and parts for space vehicles and guided missiles manufacturing,132.3322145,3.186314223,2%,Manufacturing
+359,Railroad rolling stock manufacturing,21.74218176,-0.093187072,0%,Manufacturing
+360,Ship building and repairing,846.1303115,-11.38875755,-1%,Manufacturing
+361,Boat building,554.2789913,-290.3867091,-52%,Manufacturing
+362,"Motorcycle, bicycle, and parts manufacturing",33.14883805,-3.006586955,-9%,Manufacturing
+364,All other transportation equipment manufacturing,33.36077118,-0.703843696,-2%,Manufacturing
+365,Wood kitchen cabinet and countertop manufacturing,587.3854955,-62.58695689,-11%,Manufacturing
+366,Upholstered household furniture manufacturing,1.96071887,-0.502766591,-26%,Manufacturing
+367,Nonupholstered wood household furniture manufacturing,76.87676239,-14.6247297,-19%,Manufacturing
+368,Other household nonupholstered furniture manufacturing,7.607587338,-1.440852286,-19%,Manufacturing
+369,Institutional furniture manufacturing,11.65491295,-0.055737409,0%,Manufacturing
+370,Wood office furniture manufacturing,120.4329987,-0.33073518,0%,Manufacturing
+371,Custom architectural woodwork and millwork,48.46593861,-0.350269236,-1%,Manufacturing
+372,"Office furniture, except wood, manufacturing",3.43439006,-0.042861032,-1%,Manufacturing
+373,"Showcase, partition, shelving, and locker manufacturing",91.61014565,-1.257842996,-1%,Manufacturing
+374,Mattress manufacturing,194.9446259,-33.45511136,-17%,Manufacturing
+375,Blind and shade manufacturing,5.607453825,-0.854408118,-15%,Manufacturing
+376,Surgical and medical instrument manufacturing,321.1461792,-2.412674257,-1%,Manufacturing
+377,Surgical appliance and supplies manufacturing,502.1837158,-7.384574133,-1%,Manufacturing
+378,Dental equipment and supplies manufacturing,29.91513823,-0.408636594,-1%,Manufacturing
+379,Ophthalmic goods manufacturing,300.0489197,-28.69552746,-10%,Manufacturing
+380,Dental laboratories,100.5505751,-6.619963712,-7%,Manufacturing
+381,Jewelry and silverware manufacturing,146.6113435,-85.78083126,-59%,Manufacturing
+382,Sporting and athletic goods manufacturing,521.6206665,-38.83661666,-7%,Manufacturing
+383,"Doll, toy, and game manufacturing",1119.299805,-59.80415244,-5%,Manufacturing
+384,Office supplies (except paper) manufacturing,28.80018607,-9.767478228,-34%,Manufacturing
+385,Sign manufacturing,244.9060513,-12.3146241,-5%,Manufacturing
+386,"Gasket, packing, and sealing device manufacturing",62.13332755,-7.962276745,-13%,Manufacturing
+387,Musical instrument manufacturing,49.6765518,-10.17902566,-20%,Manufacturing
+388,"Fasteners, buttons, needles, and pins manufacturing",27.38800999,-6.246495097,-23%,Manufacturing
+391,All other miscellaneous manufacturing,206.400787,-46.90390909,-23%,Manufacturing
+392,Wholesale - Motor vehicle and motor vehicle parts and supplies,2432.520992,-944.9091745,-39%,Wholesale
+393,Wholesale - Professional and commercial equipment and supplies,8939.587872,-2437.73577,-27%,Wholesale
+394,Wholesale - Household appliances and electrical and electronic goods,3669.706274,193.3110999,5%,Wholesale
+395,"Wholesale - Machinery, equipment, and supplies",4316.734353,769.5122671,18%,Wholesale
+396,Wholesale - Other durable goods merchant wholesalers,7267.433606,-1579.757338,-22%,Wholesale
+397,Wholesale - Drugs and druggistsâ€™ sundries,2808.272943,-1924.72712,-69%,Wholesale
+398,Wholesale - Grocery and related product wholesalers,4726.51953,-2354.79315,-50%,Wholesale
+399,Wholesale - Petroleum and petroleum products,4950.850567,-2040.372678,-41%,Wholesale
+400,Wholesale - Other nondurable goods merchant wholesalers,6906.179137,-3781.789534,-55%,Wholesale
+401,Wholesale - Wholesale electronic markets and agents and brokers,2660.100113,-587.2736163,-22%,Wholesale
+402,Retail - Motor vehicle and parts dealers,2770.540774,-2499.830798,-69%,Retail
+403,Retail - Furniture and home furnishings stores,1479.114257,-1395.463219,-73%,Retail
+404,Retail - Electronics and appliance stores,841.6575321,-796.0214696,-74%,Retail
+405,Retail - Building material and garden equipment and supplies stores,4184.073207,-1797.237488,-22%,Retail
+406,Retail - Food and beverage stores,5662.385253,-5493.319756,-76%,Retail
+407,Retail - Health and personal care stores,1996.999512,-1942.834327,-76%,Retail
+408,Retail - Gasoline stores,1429.340092,-1272.735064,-68%,Retail
+409,Retail - Clothing and clothing accessories stores,1898.422486,-1835.183786,-76%,Retail
+410,"Retail - Sporting goods, hobby, musical instrument and book stores",1559.427002,-1296.027591,-62%,Retail
+411,Retail - General merchandise stores,6459.524904,-5399.129333,-63%,Retail
+412,Retail - Miscellaneous store retailers,2899.108402,-2082.909216,-72%,Retail
+413,Retail - Nonstore retailers,42987.91406,-8817.649085,-21%,Retail
+414,Air transportation,3420.64599,-1633.667677,-48%,Transportation and Warehousing 
+415,Rail transportation,1747.729725,-337.9907228,-19%,Transportation and Warehousing 
+416,Water transportation,1793.111453,-481.0371255,-27%,Transportation and Warehousing 
+417,Truck transportation,6546.875516,-2184.555956,-33%,Transportation and Warehousing 
+418,Transit and ground passenger transportation,1778.355597,-984.724075,-55%,Transportation and Warehousing 
+419,Pipeline transportation,238.9220263,-71.47594288,-30%,Transportation and Warehousing 
+420,Scenic and sightseeing transportation and support activities for transportation,3180.424257,-855.9102644,-27%,Transportation and Warehousing 
+421,Couriers and messengers,2918.795401,-989.4984941,-34%,Transportation and Warehousing 
+422,Warehousing and storage,1948.534913,-832.3789334,-43%,Transportation and Warehousing 
+423,Newspaper publishers,296.1217679,-113.5770766,-38%,Information
+424,Periodical publishers,234.6286675,-98.38878859,-42%,Information
+425,Book publishers,210.53064,-126.4233557,-60%,Information
+426,"Directory, mailing list, and other publishers",73.89818677,-16.96344654,-23%,Information
+427,Greeting card publishing,22.02597428,-16.69627413,-76%,Information
+428,Software publishers,51856.10934,-8098.864313,-16%,Information
+429,Motion picture and video industries,989.0791604,-565.6596014,-57%,Information
+430,Sound recording industries,492.7765204,-277.7799924,-56%,Information
+431,Radio and television broadcasting,1749.199831,-486.0384763,-28%,Information
+432,Cable and other subscription programming,238.9662402,-82.05278853,-34%,Information
+433,Wired telecommunications carriers,4054.656906,-1897.098881,-47%,Information
+434,Wireless telecommunications carriers (except satellite),22375.77547,-4732.931822,-21%,Information
+435,"Satellite, telecommunications resellers, and all other telecommunications",377.4649323,-162.2736373,-43%,Information
+436,"Data processing, hosting, and related services",10617.25292,-2852.320851,-27%,Information
+437,"News syndicates, libraries, archives and all other information services",149.2150268,-100.8975198,-68%,Information
+438,Internet publishing and broadcasting and web search portals,39400.65178,-7344.937257,-19%,Information
+439,Nondepository credit intermediation and related activities,4861.187376,-3834.799257,-79%,Finance and Insurance 
+440,Securities and commodity contracts intermediation and brokerage,2720.156199,-1761.956345,-65%,Finance and Insurance 
+441,Monetary authorities and depository credit intermediation,13108.91984,-8544.936826,-65%,Finance and Insurance 
+442,Other financial investment activities,7120.372097,-5720.905105,-80%,Finance and Insurance 
+443,Direct life insurance carriers,1206.720339,-1172.772577,-97%,Finance and Insurance 
+444,"Insurance carriers, except direct life",12498.19307,-9093.447857,-73%,Finance and Insurance 
+445,"Insurance agencies, brokerages, and related activities",7805.907381,-5083.743392,-65%,Finance and Insurance 
+446,"Funds, trusts, and other financial vehicles",3432.399419,-3226.496042,-94%,Finance and Insurance 
+447,Other real estate,35536.18356,-12915.19356,-36%,Real Estate and Rental and Leasing 
+448,Tenant-occupied housing,15228.66211,-12001.65161,-79%,Real Estate and Rental and Leasing 
+449,Owner-occupied dwellings,47144.76563,-47542.83896,-80%,Real Estate and Rental and Leasing 
+450,Automotive equipment rental and leasing,1209.01378,-899.1204158,-74%,Real Estate and Rental and Leasing 
+451,General and consumer goods rental except video tapes and discs,702.552797,-495.5303941,-71%,Real Estate and Rental and Leasing 
+452,Video tape and disc rental,382.5508118,-314.2990624,-82%,Real Estate and Rental and Leasing 
+453,Commercial and industrial machinery and equipment rental and leasing,1995.470038,-504.0649213,-25%,Real Estate and Rental and Leasing 
+454,Lessors of nonfinancial intangible assets,1232.271733,-210.2277291,-17%,Finance and Insurance 
+455,Legal services,8104.090343,-4109.99686,-51%,Professional and Business Services
+456,"Accounting, tax preparation, bookkeeping, and payroll services",4663.704061,-1949.206831,-42%,Professional and Business Services
+457,"Architectural, engineering, and related services",8116.729528,-687.9018826,-8%,Professional and Business Services
+458,Specialized design services,704.0613249,-150.1955621,-21%,Professional and Business Services
+459,Custom computer programming services,8938.911187,258.961012,3%,Professional and Business Services
+460,Computer systems design services,6858.521006,-274.98565,-4%,Professional and Business Services
+461,"Other computer related services, including facilities management",1750.564108,-306.7205706,-18%,Professional and Business Services
+462,Management consulting services,6082.309654,-1843.333185,-30%,Professional and Business Services
+463,Environmental and other technical consulting services,1344.410507,-475.7957056,-35%,Professional and Business Services
+464,Scientific research and development services,27133.3399,-2778.176211,-10%,Professional and Business Services
+465,"Advertising, public relations, and related services",2986.519532,-600.3889765,-20%,Professional and Business Services
+466,Photographic services,194.0180212,-164.8275995,-85%,Professional and Business Services
+467,Veterinary services,974.4957894,-802.192811,-82%,Professional and Business Services
+468,"Marketing research and all other miscellaneous professional, scientific, and technical services",1566.887836,-407.8901851,-26%,Professional and Business Services
+469,Management of companies and enterprises,11594.68156,-3404.045127,-29%,Professional and Business Services
+470,Office administrative services,919.3140606,-275.0179256,-30%,Professional and Business Services
+471,Facilities support services,612.8901424,-140.3578733,-23%,Professional and Business Services
+472,Employment services,7490.336329,-2468.703961,-33%,Professional and Business Services
+473,Business support services,1335.656153,-496.5961657,-37%,Professional and Business Services
+474,Travel arrangement and reservation services,3203.403565,-869.9493042,-27%,Professional and Business Services
+475,Investigation and security services,1624.163713,-689.9192953,-42%,Professional and Business Services
+476,Services to buildings,2789.659381,-1144.874918,-41%,Professional and Business Services
+477,Landscape and horticultural services,2163.922104,-976.8788135,-45%,Professional and Business Services
+478,Other support services,1089.169928,-358.7906988,-33%,Professional and Business Services
+479,Waste management and remediation services,4886.439485,-1258.806388,-26%,Education and Health Services
+480,Elementary and secondary schools,689.9612427,-736.3008053,-50%,Education and Health Services
+481,"Junior colleges, colleges, universities, and professional schools",1318.937743,-1179.934404,-89%,Education and Health Services
+482,Other educational services,2164.999758,-1047.763973,-48%,Education and Health Services
+483,Offices of physicians,11331.5293,-11456.67327,-75%,Education and Health Services
+484,Offices of dentists,3008.224854,-2915.141657,-97%,Education and Health Services
+485,Offices of other health practitioners,2437.804199,-2391.830616,-98%,Education and Health Services
+486,Outpatient care centers,4814.532715,-3751.877988,-78%,Education and Health Services
+487,Medical and diagnostic laboratories,993.6679079,-946.3806506,-95%,Education and Health Services
+488,Home health care services,1007.667664,-1015.405854,-85%,Education and Health Services
+489,Other ambulatory health care services,829.4707666,-828.7105962,-78%,Education and Health Services
+490,Hospitals,19000.1875,-18860.66243,-99%,Education and Health Services
+491,Nursing and community care facilities,4353.413086,-3022.966119,-69%,Education and Health Services
+492,"Residential mental retardation, mental health, substance abuse and other facilities",780.8547363,-673.053721,-86%,Education and Health Services
+493,Individual and family services,4287.152832,-3375.522664,-79%,Education and Health Services
+494,Child day care services,1441.072144,-1489.376616,-81%,Education and Health Services
+495,"Community food, housing, and other relief services, including rehabilitation services",1414.571899,-1431.130733,-81%,Leisure and Hospitality
+496,Performing arts companies,301.260649,-277.9357556,-92%,Leisure and Hospitality
+497,Commercial Sports Except Racing,714.0192243,-429.1398313,-60%,Leisure and Hospitality
+498,Racing and Track Operation,55.21125831,-53.99350118,-98%,Leisure and Hospitality
+499,"Independent artists, writers, and performers",195.5017729,-85.86467598,-44%,Leisure and Hospitality
+500,Promoters of performing arts and sports and agents for public figures,350.4349029,-299.8254245,-86%,Leisure and Hospitality
+501,"Museums, historical sites, zoos, and parks",205.043457,-201.5540829,-98%,Leisure and Hospitality
+502,Amusement parks and arcades,28.61622429,-24.2496041,-85%,Leisure and Hospitality
+503,Gambling industries (except casino hotels),1744.38147,-1098.202865,-63%,Leisure and Hospitality
+504,Other amusement and recreation industries,628.1707746,-591.9844909,-94%,Leisure and Hospitality
+505,Fitness and recreational sports centers,487.4005421,-466.0165539,-96%,Leisure and Hospitality
+506,Bowling centers,90.80091858,-82.21966433,-91%,Leisure and Hospitality
+507,"Hotels and motels, including casino hotels",2817.765869,-111.1888084,-4%,Leisure and Hospitality
+508,Other accommodations,724.1577148,-33.36155939,-5%,Leisure and Hospitality
+509,Full-service restaurants,6112.969293,-5376.787039,-88%,Leisure and Hospitality
+510,Limited-service restaurants,9456.610346,-8715.564239,-92%,Leisure and Hospitality
+511,All other food and drinking places,4125.940922,-2847.096933,-69%,Leisure and Hospitality
+512,"Automotive repair and maintenance, except car washes",3823.88379,-3247.156382,-85%,Leisure and Hospitality
+513,Car washes,2420.068604,-2159.563955,-89%,Leisure and Hospitality
+514,Electronic and precision equipment repair and maintenance,1519.940778,-413.5766797,-27%,Leisure and Hospitality
+515,Commercial and industrial machinery and equipment repair and maintenance,1088.451782,-429.2311562,-39%,Leisure and Hospitality
+516,Personal and household goods repair and maintenance,1154.672367,-534.80785,-46%,Leisure and Hospitality
+517,Personal care services,1255.701782,-1191.952281,-95%,Leisure and Hospitality
+518,Death care services,125.5387344,-102.6168446,-82%,Leisure and Hospitality
+519,Dry-cleaning and laundry services,296.9054581,-208.1001096,-70%,Leisure and Hospitality
+520,Other personal services,1323.355834,-1186.552374,-90%,Leisure and Hospitality
+521,Religious organizations,3038.699951,-3065.062162,-78%,Other Services
+522,"Grantmaking, giving, and social advocacy organizations",4215.790039,-3296.105484,-78%,Other Services
+523,Business and professional associations,694.7747238,-595.3818284,-86%,Other Services
+524,Labor and civic organizations,1956.420532,-1949.86595,-92%,Other Services
+525,Private households,511.9876709,-502.7773379,-98%,Other Services
+526,Postal service,1192.278072,-505.0987586,-42%,Government
+527,Federal electric utilities,2356.084963,-1054.546424,-45%,Utilities
+528,Other federal government enterprises,657.4802214,-293.1116538,-45%,Government
+531,Other state government enterprises,970.130491,-400.2519829,-41%,Government
+532,Local government passenger transit,1071.754148,-593.1374688,-55%,Government
+533,Local government electric utilities,3939.532958,-1743.098843,-44%,Utilities
+534,Other local government enterprises,13902.80076,-6106.552423,-44%,Government
